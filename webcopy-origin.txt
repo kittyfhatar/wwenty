@@ -1,0 +1,108 @@
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\francyzneur.github.io\npm\bootstrap@5.0.0-beta1\dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins&display=swap
+File Name: C:\Downloaded Web Sites\francyzneur.github.io\css2-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap
+File Name: C:\Downloaded Web Sites\francyzneur.github.io\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap
+File Name: C:\Downloaded Web Sites\francyzneur.github.io\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap
+File Name: C:\Downloaded Web Sites\francyzneur.github.io\css2-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap
+File Name: C:\Downloaded Web Sites\francyzneur.github.io\css2-4
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap
+File Name: C:\Downloaded Web Sites\francyzneur.github.io\css2-5
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap
+File Name: C:\Downloaded Web Sites\francyzneur.github.io\css2-6
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap
+File Name: C:\Downloaded Web Sites\francyzneur.github.io\css2-7
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@900&display=swap
+File Name: C:\Downloaded Web Sites\francyzneur.github.io\css2-8
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Downloaded Web Sites\francyzneur.github.io\s\poppins\v19\pxiByp8kv8JHgFVrLBT5V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\francyzneur.github.io\s\poppins\v19\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: C:\Downloaded Web Sites\francyzneur.github.io\s\poppins\v19\pxiByp8kv8JHgFVrLDD4V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Downloaded Web Sites\francyzneur.github.io\s\poppins\v19\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\francyzneur.github.io\s\poppins\v19\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLFj_V1s.ttf
+File Name: C:\Downloaded Web Sites\francyzneur.github.io\s\poppins\v19\pxiByp8kv8JHgFVrLFj_V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\francyzneur.github.io\s\poppins\v19\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\francyzneur.github.io\s\poppins\v19\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiGyp8kv8JHgFVrLPTedw.ttf
+File Name: C:\Downloaded Web Sites\francyzneur.github.io\s\poppins\v19\pxiGyp8kv8JHgFVrLPTedw.ttf
+Content Type: font/ttf
+
+Uri: https://francyzneur.github.io/
+File Name: C:\Downloaded Web Sites\francyzneur.github.io\index.htm
+Content Type: text/html
+
+Uri: https://francyzneur.github.io/assets/css/font.css
+File Name: C:\Downloaded Web Sites\francyzneur.github.io\assets\css\font.css
+Content Type: text/css
+
+Uri: https://francyzneur.github.io/assets/css/style.css
+File Name: C:\Downloaded Web Sites\francyzneur.github.io\assets\css\style.css
+Content Type: text/css
+
+Uri: https://francyzneur.github.io/assets/font/CognacC.woff
+File Name: C:\Downloaded Web Sites\francyzneur.github.io\assets\font\CognacC.woff
+Content Type: font/woff
+
+Uri: https://francyzneur.github.io/assets/img/ava_alfa.png
+File Name: C:\Downloaded Web Sites\francyzneur.github.io\assets\img\ava_alfa.png
+Content Type: image/png
+
+Uri: https://francyzneur.github.io/assets/js/main.js
+File Name: C:\Downloaded Web Sites\francyzneur.github.io\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://kit.fontawesome.com/b617dc6679.js
+File Name: C:\Downloaded Web Sites\francyzneur.github.io\b617dc6679.js
+Content Type: text/javascript
+
+Uri: https://www.youtube.com/iframe_api
+File Name: C:\Downloaded Web Sites\francyzneur.github.io\iframe_api
+Content Type: text/javascript
+

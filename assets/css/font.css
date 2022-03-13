@@ -1,0 +1,21 @@
+﻿@import url('../../css2');
+@import url('../../css2-1');
+@import url('../../css2-2');
+@import url('../../css2-3');
+@import url('../../css2-4');
+@import url('../../css2-5');
+@import url('../../css2-6');
+@import url('../../css2-7');
+@import url('../../css2-8');
+
+@font-face {
+    font-family: 'HACKED';
+    font-style: normal;
+    font-weight: 400;
+    src: local('HACKED'), url('../font/HACKED.ttf') format('ttf');
+}
+
+@font-face {
+    font-family: Hacked;
+    src: url(https://hackedfont.com/HACKED.ttf);
+}
