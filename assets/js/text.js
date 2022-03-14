@@ -68,7 +68,18 @@ class TextScramble {
     'Wait for it',
     '404',
       '404',
-      'HAKCED',
+      'C://code/website/index.html',
+       'rm -rf index.html',
+      'SUCCES!',
+       '.',
+      '..',
+      '...',
+      'HAKCED!!',
+      'HAKCED!!',
+      'HAKCED!!',
+      'HAKCED!!',
+      'HAKCED!!',
+      'HAKCED!!',
   ]
   
   const el = document.querySelector('.text')
