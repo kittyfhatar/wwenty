@@ -57,13 +57,18 @@ class TextScramble {
   // ——————————————————————————————————————————————————
   
   const phrases = [
-    'Oh... Owner',
-    'Oh... Owner',
-    'Oh... Owner',
-    'Oh... Owner',
-    'Oh... Owner',
-    'Oh... Owner',
-    'Oh... Owner',
+    'Oh... User',
+    'Hello there.',
+    'ERROR',
+    'F#CK, this code is a sh#t',
+    'Nevermind',
+    'Here you can see my links',
+    'And links of my friends',
+    'I will rewrite this site soon',
+    'Wait for it',
+    '404',
+      '404',
+      'HAKCED',
   ]
   
   const el = document.querySelector('.text')
